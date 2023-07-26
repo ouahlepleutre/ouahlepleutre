@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AlexandreUseGitHub . I'm in Year 11 in France.
 - 👀 I am interested in programming and cyber defence. I got interested in computer science in Year 8 and have been progressing ever since.
 - 🌱 I’m currently learning Python, HTML, CSS, SQL, PHP and I educate myself in cyber defence.
-- 📫 You can reach me on Discord : Alexandre#5141
+- 📫 You can reach me on Discord : MimicMedusa111
