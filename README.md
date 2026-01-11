@@ -1,3 +1,3 @@
-Hi, I’m @OuahLePleutre.
-I'm focusing on cyber things
-@ouahlepleutre:matrix.org
+Hi, I’m @OuahLePleutre. <br />
+I'm focusing on cyber things <br />
+@ouahlepleutre:matrix.org <br />
